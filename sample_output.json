@@ -1,0 +1,56 @@
+{
+  "user": "tim_apple_senior",
+  "fromDate": "2-2-2021",
+  "toDate": "04-01-2021",
+  "totalGainLoss": "1024.14",
+  "trades": [
+    {
+      "userId": "12345",
+      "action": "buy",
+      "symbol": "GME",
+      "quantity": 5,
+      "price": "20.99",
+      "tradeTime": "2020-12-21 15:45:24",
+      "quantitySell": 5,
+      "priceSell": "145.04",
+      "tradeTimeSell": "2021-01-26 18:34:12",
+      "gainLoss": "620.25"
+    },
+    {
+      "userId": "12345",
+      "action": "buy",
+      "symbol": "AAPL",
+      "quantity": 5,
+      "price": "76.60",
+      "tradeTime": "2020-01-02 16:01:23",
+      "quantitySell": 5,
+      "priceSell": "90.00",
+      "tradeTimeSell": "2020-06-08 12:12:51",
+      "gainLoss": "67.00"
+    },
+    {
+      "userId": "12345",
+      "action": "buy",
+      "symbol": "AAPL",
+      "quantity": 1,
+      "price": "95.11",
+      "tradeTime": "2020-06-05 15:21:35",
+      "quantitySell": 1,
+      "priceSell": "90.00",
+      "tradeTimeSell": "2020-06-08 12:12:51",
+      "gainLoss": "-5.11"
+    },
+    {
+      "userId": "12345",
+      "action": "buy",
+      "symbol": "AAPL",
+      "quantity": 9,
+      "price": "95.11",
+      "tradeTime": "2020-06-05 15:21:35",
+      "quantitySell": 9,
+      "priceSell": 133.11,
+      "tradeTimeSell": "2021-04-20 21:56:46",
+      "gainLoss": "342.00"
+    }
+  ]
+}
